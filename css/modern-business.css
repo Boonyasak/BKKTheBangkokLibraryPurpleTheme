@@ -1,0 +1,54 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/templates/modern-business)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+.navbar:not(.navbar-transparent).navbar-ct-green {
+  background-color: #800080;
+  background-color:rgba(128, 0, 128, 0.81);
+}
+
+.purple {
+
+  background-color: #800080;
+  background-color: rgba(128, 0, 128, 0.81);
+}
+
+
+.navbar-transparent .navbar-form .form-control,
+[class*="navbar-ct"] .navbar-form .form-control {
+  color: #FFFFFF;
+  border: 0;
+  /*     border-bottom: 1px solid rgba(255,255,255,.6); */
+}
+
+
+.navbar-transparent .btn-default,
+[class*="navbar-ct"] .btn-default {
+  color: #FFFFFF;
+  border-color: #FFFFFF;
+}
+
+[class*="navbar-ct"] .btn-default.btn-fill {
+  color: #777777;
+  background-color: #FFFFFF;
+  opacity: 0.9;
+}
+
